@@ -1,7 +1,6 @@
 # Guess_The_Number
 
 import random
-# print(help(random))
 
 # Create variables
 input_number = 0
